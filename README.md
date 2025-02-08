@@ -1,6 +1,88 @@
-<body background ="linear-gradient (to right ,#40b6ff ,#80eaff );"></body><h1 align="center" text-shadow="0 10px #6>Hi 👋, I'm Priyadharsan</h1> <h3 align="center">AI AND DATA SCIENCE STUDENT</h3>
-• • • • 🌱 I’m currently learning AI&DS
-📝 I regularly write articles on https://priyadharsan.netlify.app 📫 How to reach me priyadharsant4@gamil.com ⚡ Fun fact Don’t judge a book by its cover.
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/priyadharsan-t-2b5810327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githubprofile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyadharsan-t-2b5810327" height="30" width="40" /></a> <a href="https://instagram.com/priyadharsan✨🦋" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githubprofile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyadharsan✨🦋" height="30" width="40" /></a> <a href="https://www.hackerrank.com/@priyadharsant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githubprofile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@priyadharsant4" height="30" width="40" /></a> </p>
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/coriginal.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html 5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysq l-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt hon-original.svg" alt="python" width="40" height="40"/> </a> </p> </body >
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast;Tech+Explorer+%7C+Problem+Solver" alt="Typing Animation" />
+</p>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" height="150" style="border-radius:50%" />
+</p>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+- 🌱 Currently learning **AI & Data Science**  
+- 📝 I write articles on **[My Blog](https://priyadharsan.netlify.app)**  
+- 📫 Reach me at **priyadharsant4@gmail.com**  
+- ⚡ Fun fact: *Don’t judge a book by its cover.*  
+- 🎯 Exploring **Web Dev, Python, ML & Open Source**  
+
+---
+
+<h2 align="center">📲 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/priyadharsan-t-2b5810327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/priyadharsan✨🦋" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/priyadharsant4" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,mysql" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharsan852484&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">🔥 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyadharsan852484&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">🚀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyadharsan852484&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
+
+---
+
+<h2 align="center">💬 Let's Talk!</h2>
+
+📬 **Email:** [priyadharsant4@gmail.com](mailto:priyadharsant4@gmail.com)  
+💻 **Portfolio:** [priyadharsan.netlify.app](https://priyadharsan.netlify.app)  
+
+✨ _Thanks for stopping by!_ 🚀
