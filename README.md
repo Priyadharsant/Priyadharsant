@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Priyadharsan
-- 👀 I’m interested in Maths 
-- 🌱 I’m currently learning B.TECH AI&DS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+<h1 align="center">Hi 👋, I'm Priyadharsan</h1> <h3 align="center">AI AND DATA SCIENCE STUDENT</h3>
+• • • • 🌱 I’m currently learning AI&DS
+📝 I regularly write articles on https://priyadharsan.netlify.app 📫 How to reach me priyadharsant4@gamil.com ⚡ Fun fact Don’t judge a book by its cover.
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/priyadharsan-t-2b5810327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githubprofile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyadharsan-t-2b5810327" height="30" width="40" /></a> <a href="https://instagram.com/priyadharsan✨🦋" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githubprofile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyadharsan✨🦋" height="30" width="40" /></a> <a href="https://www.hackerrank.com/@priyadharsant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githubprofile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@priyadharsant4" height="30" width="40" /></a> </p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/coriginal.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html 5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysq l-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyt hon-original.svg" alt="python" width="40" height="40"/> </a> </p> 
