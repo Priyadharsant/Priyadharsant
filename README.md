@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" height="150" style="border-radius:50%" />
+  <img src="https://github.com/Priyadharsan852484.png" width="150" height="150" style="border-radius:50%" />
 </p>
 
 ---
@@ -43,16 +43,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharsan852484&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Priyadharsan852484&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" />
 </p>
 
 ---
