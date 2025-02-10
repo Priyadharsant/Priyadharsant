@@ -1,11 +1,11 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast;_Tech+Explorer+Problem+Solver_" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast;Tech+Explorer+|+Problem+Solver" alt="Typing Animation" />
 </p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Priyadharsan852484.png" width="150" height="150" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" height="150" style="border-radius:50%" />
 </p>
 
 ---
@@ -43,16 +43,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Priyadharsan852484&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharsan852484&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" />
 </p>
 
 ---
