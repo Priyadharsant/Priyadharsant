@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast; Tech+Explorer+%7C+Problem+Solver " alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast;Tech+Explorer+%7C+Problem+Solver" alt="Typing Animation" />
 </p>
 
 <!-- Profile Picture -->
@@ -39,7 +39,7 @@
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -69,6 +69,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Priyadharsan852484&theme=onedark" alt="GitHub Trophies" />
 </p>
+
+---
+
+<h2 align="center">💡 Fun Projects</h2>
+
+- 🔹 **AI Chatbot using Python & NLP**  
+- 🔹 **E-commerce Website with Django & React**  
+- 🔹 **Image Recognition Model using CNN**  
 
 ---
 
