@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=550&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast; Tech+Explorer+%7C+Problem+Solver " alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast; Tech+Explorer+%7C+Problem+Solver " alt="Typing Animation" />
 </p>
 
 <!-- Profile Picture -->
