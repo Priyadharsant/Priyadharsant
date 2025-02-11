@@ -1,25 +1,26 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast;Tech+Explorer+|+Problem+Solver" alt="Typing Animation" />
-</p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" height="150" style="border-radius:50%" />
+  <img src="https://github.com/Priyadharsan852484.png" width="150" height="150" style="border-radius:50%" /> 
+</p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast;Tech+Explorer+Problem+Solver" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🚀 About Me  
+<h2 align="center">🚀 About Me</h2>
+
 - 🌱 Currently learning **AI & Data Science**  
 - 📝 I write articles on **[My Blog](https://priyadharsan.netlify.app)**  
-- 📫 Reach me at **[priyadharsant4@gmail.com](mailto:priyadharsant4@gmail.com)**  
+- 📫 Reach me at **priyadharsant4@gmail.com**  
 - ⚡ Fun fact: *Don’t judge a book by its cover.*  
 - 🎯 Exploring **Web Dev, Python, ML & Open Source**  
 
 ---
 
-## 📲 Connect with Me  
+<h2 align="center">📲 Connect with me</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/priyadharsan-t-2b5810327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,51 +35,60 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+<h2 align="center">🛠️ Languages & Tools</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharsan852484&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharsan852484&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔥 Top Languages  
+<h2 align="center">🔥 Top Languages</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyadharsan852484&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyadharsan852484&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🎯 Fun Projects  
+<h2 align="center">💡 Fun Projects</h2>
+
 - 🔹 **AI Chatbot using Python & NLP**  
 - 🔹 **E-commerce Website with Django & React**  
 - 🔹 **Image Recognition Model using CNN**  
 
 ---
 
-## 🚀 Profile Views  
+<h2 align="center">🚀 Profile Views</h2>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Priyadharsan852484&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
 
 ---
 
-## 💬 Let's Talk!  
+<h2 align="center">💬 Let's Talk!</h2>
+
 📬 **Email:** [priyadharsant4@gmail.com](mailto:priyadharsant4@gmail.com)  
 💻 **Portfolio:** [priyadharsan.netlify.app](https://priyadharsan.netlify.app)  
 
