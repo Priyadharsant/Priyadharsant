@@ -14,7 +14,7 @@
 - 🌱 Currently learning **AI & Data Science**  
 - 📝 I write articles on **[My Blog](https://priyadharsan.netlify.app)**  
 - 📫 Reach me at **priyadharsant4@gmail.com**  
-- ⚡ Fun fact: *Don’t judge a book by its cover.*  
+- ⚡ Fact: *Don’t judge a book by its cover.*  
 - 🎯 Exploring **Web Dev, Python, ML & Open Source**  
 
 ---
