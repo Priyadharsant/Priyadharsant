@@ -1,7 +1,6 @@
 
-<!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Priyadharsan852484.png" width="150" height="150" style="border-radius:50%" /> 
+  <img src="https://github.com/Priyadharsant.png" width="150" height="150" style="border-radius:50%" /> 
 </p> 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Priyadharsan!;AI+%26+DS+Enthusiast;Tech+Explorer+Problem+Solver" alt="Typing Animation" />
@@ -46,11 +45,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharsan852484&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharsant&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharsan852484&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharsant&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,7 +57,7 @@
 <h2 align="center">🔥 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsan852484&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsant&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -66,7 +65,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyadharsan852484&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyadharsant&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -82,7 +81,7 @@
 <h2 align="center">🚀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyadharsan852484&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Priyadharsant&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
 
 ---
