@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta property="og:title" content="Priyadharsanvec - AI and Full-Stack Developer"> 
+    <meta property="og:description" content="Explore my skills, projects, and achievements in AI, data science, and development.">
+    <meta property="og:image" content="https://i.postimg.cc/zLsXb8YM/IMG-20250110-093720.jpg">
+    <meta property="og:url" content="https://priyadharsan.netlify.app">
+    <meta property="og:type" content="website">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priyadharsanvec</title>
+    <link rel="icon" type="image/*" href="https://i.postimg.cc/zLsXb8YM/IMG-20250110-093720.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="loading"><div class="loader"></div></div>
+
+    <header>
+        <h2 id="tt">Priyadharsan </h2>
+        <button id="theme-toggle">🌙</button>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I am Priya Dharsan, a passionate developer specializing in AI, data science, and full-stack development. I am dedicated to building solutions that make a difference!</p>
+        </section>
+
+        <section id="skills">
+            <h2>My Skills</h2>
+            <div class="skill">Python</div>
+            <div class="skill">C</div>
+            <div class="skill">Java</div>
+            <div class="skill">HTML</div>
+            <div class="skill">CSS</div>
+        </section>
+
+        <section id="projects">
+            <h2>My Projects</h2>
+            <div class="project"><h3>KMV ASURAN</h3><p>Website for gaming YouTuber</p></div>
+            <div class="project"><h3>Simple Calculator</h3><p>Simple mathematical function website</p></div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <form id="contact-form">
+                <input type="text" id="name" name="name" placeholder="Your Name" required>
+                <input type="email" id="email" name="email" placeholder="Your Email (For reply)" required>
+                <div id="note" class="notify">
+  This is only for replying to your comment.<br>
+  If you don’t want to use your own email, you can enter <b>unknownemail1807@gmail.com</b>.
+</div>
+                <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+        
+        <section>
+            <h2>Connect with Me</h2>
+            <div class="social-links">
+                <a href="https://github.com/Priyadharsant" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"></a>
+                <a href="https://www.linkedin.com/in/priya-dharsan-t-2b5810327" target="_blank"><img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn"></a>
+                <a href="https://onecompiler.com/users/42j8ym45r" target="_blank"><img src="https://img.icons8.com/ios-filled/50/code.png" alt="OneCompiler"></a>
+            </div>
+        </section>
+
+        <section>
+            <h2>Like My Work?</h2>
+            <button class="like-button" id="like-button">👍 Like</button>
+            <span class="like-count" id="like-count">0</span>
+        </section>
+    </main>
+
+    <button id="back-to-top" title="Go to top">↑</button>
+
+    <div class="popup" id="popup">
+        💬 Please <a href="#name">leave a comment</a> on website! 
+        <button onclick="hidePopup()">×</button>
+    </div>
+
+    <footer><p>© 2025 Priyadharsan.</p></footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3.2.0/dist/email.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
